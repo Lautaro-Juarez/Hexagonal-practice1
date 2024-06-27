@@ -1,3 +1,4 @@
+import { PostgresUserRepository } from "../../User/infrastructure/PostgresUserRepository";
 import {
   UserCreate,
   UserDelete,
